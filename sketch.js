@@ -15,17 +15,17 @@ var milkBottle2;
 function preload()
 {
 	//dog Images
-  dogImage=loadImage("images/dogImg.png");
-  dogHappy=loadImage("images/dogImg1.png");
-  dogSad=loadImage("images/Vaccination.jpg")
-  dogLazy=loadImage("images/Lazy.png");
+  dogImage=loadImage("dogImg.png");
+  dogHappy=loadImage("dogImg1.png");
+  dogSad=loadImage("Vaccination.jpg")
+  dogLazy=loadImage("Lazy.png");
   //rooms images
-  bedroomImg=loadImage("images/Bed Room.png");
-  gardenImg=loadImage("images/Garden.png");
-  washroomImg=loadImage("images/Wash Room.png");
-  livingroom=loadImage("images/Living Room.png")
+  bedroomImg=loadImage("Bed Room.png");
+  gardenImg=loadImage("Garden.png");
+  washroomImg=loadImage("Wash Room.png");
+  livingroom=loadImage("Living Room.png")
   
-  milkBottle2=loadImage("images/milk.png");
+  milkBottle2=loadImage("milk.png");
 }
 
 function setup() {
